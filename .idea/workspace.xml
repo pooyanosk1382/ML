@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d52a3cd8-813b-45b3-999c-c632003f3098" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment3/Temp.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment4/Advertising/Click.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/Advertising/Click.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment4/Advertising/ad_10000records.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/Advertising/ad_10000records.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3/Emotion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/Emotion.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/studing/programming/Data sets/ML/Assignment4/Advertising"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/studing/programming/Data sets/ML/Assignment4/Advertising&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\studing\programming\Data sets\ML\Assignment4\Advertising" />
